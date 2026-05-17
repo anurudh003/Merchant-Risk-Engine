@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-05-16_16-37-02",
+    "merchant_url": "https://www.freshworks.com",
+    "risk_score": 83,
+    "risk_rating": "HIGH",
+    "recommended_action": "Immediate Compliance Investigation Required",
+    "triggered_findings": [
+        "Missing refund policy",
+        "No phone number found",
+        "Missing terms and conditions",
+        "WHOIS unavailable",
+        "Missing cancellation policy"
+    ]
+}

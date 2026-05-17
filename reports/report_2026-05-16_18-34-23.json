@@ -1,0 +1,20 @@
+{
+    "timestamp": "2026-05-16_18-34-23",
+    "merchant_url": "https://www.microsoft.com",
+    "risk_score": 63,
+    "risk_rating": "MEDIUM",
+    "recommended_action": "Manual Compliance Review Required",
+    "triggered_findings": [
+        "Missing privacy policy",
+        "Missing refund policy",
+        "Medium-risk merchant category detected: marketplace",
+        "No phone number found",
+        "WHOIS unavailable",
+        "No business email found",
+        "Trusted merchant model detected: software",
+        "Enterprise trust signal detected: microsoft",
+        "Enterprise trust signal detected: careers",
+        "Missing terms and conditions",
+        "Missing cancellation policy"
+    ]
+}

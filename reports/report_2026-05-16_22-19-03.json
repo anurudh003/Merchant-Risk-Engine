@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-05-16_22-19-03",
+    "merchant_url": "https://zylotechindia.online/",
+    "risk_score": 19,
+    "risk_rating": "LOW",
+    "recommended_action": "Proceed with Standard Monitoring",
+    "triggered_findings": [
+        "Trusted merchant model detected",
+        "Enterprise trust signal detected",
+        "High-risk domain TLD detected",
+        "Suspicious business naming pattern detected",
+        "Missing cancellation policy"
+    ]
+}

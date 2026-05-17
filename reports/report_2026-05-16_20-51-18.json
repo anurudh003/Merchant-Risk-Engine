@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-05-16_20-51-18",
+    "merchant_url": "https://www.microsoft.com/",
+    "risk_score": 5,
+    "risk_rating": "LOW",
+    "recommended_action": "Proceed with Standard Monitoring",
+    "triggered_findings": [
+        "Trusted merchant model detected",
+        "Enterprise trust signal detected",
+        "Missing cancellation policy"
+    ]
+}

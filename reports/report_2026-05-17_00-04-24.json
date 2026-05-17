@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-05-17_00-04-24",
+    "merchant_url": "https://www.shopify.com",
+    "risk_score": 0,
+    "risk_rating": "LOW",
+    "recommended_action": "Proceed with Standard Monitoring",
+    "compliance_summary": "Merchant qualifies for standard onboarding with routine transaction monitoring.",
+    "triggered_findings": [
+        "No phone number found (Severity: LOW, Signal: missing_phone)",
+        "Trusted enterprise merchant verified (Severity: LOW, Signal: enterprise_trust_verified)",
+        "Trusted enterprise merchant verified (Severity: LOW, Signal: enterprise_trust_signal)"
+    ]
+}

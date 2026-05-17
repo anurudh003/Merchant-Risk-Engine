@@ -1,0 +1,5 @@
+# Configuration for risk rules
+rules:
+  - id: 1
+    name: high_risk_keyword
+    threshold: 0.8

@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-05-15_16-10-08",
+    "merchant_url": "https://manifestwaresoftware.com/web/",
+    "risk_score": 84,
+    "risk_rating": "HIGH",
+    "recommended_action": "Immediate Compliance Investigation Required",
+    "triggered_findings": [
+        "Missing refund policy",
+        "Missing cancellation policy",
+        "Missing terms and conditions",
+        "WHOIS unavailable"
+    ]
+}

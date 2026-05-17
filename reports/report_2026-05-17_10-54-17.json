@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-05-17_10-54-17",
+    "merchant_url": "https://manifestwaresoftware.com/web/",
+    "risk_score": 35,
+    "risk_rating": "MEDIUM",
+    "recommended_action": "Manual Compliance Review Required",
+    "compliance_summary": "Merchant requires enhanced due diligence and mandatory analyst review.",
+    "triggered_findings": [
+        "No business email found (Severity: MEDIUM, Signal: missing_business_email)",
+        "No phone number found (Severity: LOW, Signal: missing_phone)",
+        "No physical address found (Severity: MEDIUM, Signal: missing_address)",
+        "No phone and no physical address found (Severity: HIGH, Signal: weak_contact_identity)",
+        "Missing About page (Severity: LOW, Signal: missing_about_page)"
+    ]
+}

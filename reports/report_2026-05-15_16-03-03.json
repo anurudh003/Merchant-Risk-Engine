@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-05-15_16-03-03",
+    "merchant_url": "https://www.zylotech.com/",
+    "risk_score": 100,
+    "risk_rating": "HIGH",
+    "recommended_action": "Immediate Compliance Investigation Required",
+    "triggered_findings": [
+        "Missing privacy policy",
+        "Missing refund policy",
+        "WHOIS unavailable",
+        "Missing cancellation policy",
+        "No business email found",
+        "Missing terms and conditions"
+    ]
+}

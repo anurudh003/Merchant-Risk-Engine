@@ -1,0 +1,11 @@
+playwright
+python-whois
+pyyaml
+streamlit
+ollama
+beautifulsoup4
+requests
+fastapi
+uvicorn
+psycopg2-binary
+pandas

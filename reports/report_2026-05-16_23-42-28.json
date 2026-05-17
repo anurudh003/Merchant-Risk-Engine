@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-05-16_23-42-28",
+    "merchant_url": "https://zylotechindia.online/",
+    "risk_score": 79,
+    "risk_rating": "HIGH",
+    "recommended_action": "Immediate Compliance Investigation Required",
+    "compliance_summary": "Merchant requires immediate compliance investigation before onboarding approval.",
+    "triggered_findings": [
+        "High-risk domain TLD detected (Severity: HIGH, Signal: high_risk_tld)",
+        "No business email found (Severity: HIGH, Signal: missing_business_email)",
+        "No phone number found (Severity: MEDIUM, Signal: missing_phone_number)",
+        "No physical address found (Severity: HIGH, Signal: missing_physical_address)",
+        "No phone number and no physical address found (Severity: HIGH, Signal: missing_contact_details)",
+        "Missing About page (Severity: LOW, Signal: no_about_page)"
+    ]
+}

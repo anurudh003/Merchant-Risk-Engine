@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-05-15_15-28-01",
+    "merchant_url": "https://example-highrisk-merchant.com",
+    "risk_score": 82,
+    "risk_rating": "HIGH",
+    "recommended_action": "Reject / Escalate for Compliance Review",
+    "triggered_findings": [
+        "Missing privacy policy",
+        "WHOIS unavailable",
+        "No business email found",
+        "Missing cancellation policy"
+    ]
+}

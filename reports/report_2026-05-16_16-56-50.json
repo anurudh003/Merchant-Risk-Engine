@@ -1,0 +1,11 @@
+{
+    "timestamp": "2026-05-16_16-56-50",
+    "merchant_url": "https://www.zoho.com",
+    "risk_score": 56,
+    "risk_rating": "MEDIUM",
+    "recommended_action": "Manual Compliance Review Required",
+    "triggered_findings": [
+        "Missing cancellation policy",
+        "WHOIS unavailable"
+    ]
+}

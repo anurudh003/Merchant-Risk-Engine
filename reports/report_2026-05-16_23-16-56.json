@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-05-16_23-16-56",
+    "merchant_url": "https://example-highrisk-merchant.com",
+    "risk_score": 88,
+    "risk_rating": "HIGH",
+    "recommended_action": "Immediate Compliance Investigation Required",
+    "compliance_summary": "Merchant requires immediate compliance investigation before onboarding approval.",
+    "triggered_findings": [
+        "No business email found (Severity: HIGH, Signal: missing_business_email)",
+        "Very new domain detected (Severity: CRITICAL, Signal: very_new_domain)",
+        "Crypto payment detected (Severity: CRITICAL, Signal: crypto_payment_detected)"
+    ]
+}
