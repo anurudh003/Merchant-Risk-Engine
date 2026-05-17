@@ -89,19 +89,10 @@ playwright install
 
 ## 🚀 Execution & Usage
 
-### 📊 Option A: Launch the Analyst Web Dashboard (Recommended)
-Launch the beautiful dark-themed Streamlit dashboard, type any merchant website URL, trigger a live scan in real-time, inspect breakdowns, and export PDF briefs:
-```bash
-streamlit run app.py
+
 ```
 
-### 💻 Option B: Run a Live Scan via Command Line
-Directly analyze a single website URL from the console using the root command entrypoint:
-```bash
-python main.py https://www.shopify.com
-```
-
-### 🧪 Option C: Execute Test Cases
+### 🧪 : Execute Test Cases
 Run the pipeline regression suite on default test merchants to verify scoring accuracy and system stability:
 ```bash
 python src/test_cases.py
