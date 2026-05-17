@@ -95,7 +95,7 @@ playwright install
 ### 🧪 : Execute Test Cases
 Run the pipeline regression suite on default test merchants to verify scoring accuracy and system stability:
 ```bash
-python src/test_cases.py
+python src/pipeline.py
 ```
 
 ---
